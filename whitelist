@@ -1,7 +1,7 @@
 {
-  "_a": [
-    7227920219
-  ],
+  "_a": {
+    "7227920219": "Owner"
+  },
   "_f": [
     "V3.0.0 | Official ShadowNode's Release"
   ]
